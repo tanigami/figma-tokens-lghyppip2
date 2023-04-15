@@ -11,6 +11,10 @@
         "paragraphSpacing": "36"
       },
       "type": "typography"
+    },
+    "radi-s": {
+      "value": "20px",
+      "type": "borderRadius"
     }
   },
   "$themes": [],
